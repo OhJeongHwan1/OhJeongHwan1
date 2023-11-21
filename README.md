@@ -1,4 +1,4 @@
-github-readme-stats.vercel.app/api?username={OhJeongHwan1}&show_icons=true
+github-readme-stats.vercel.app/api?username=OhJeongHwan1&show_icons=true
 
 
 
