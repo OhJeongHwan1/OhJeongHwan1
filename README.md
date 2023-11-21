@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhJeongHwan1&show_icons=true&theme=radical)
+github-readme-stats.vercel.app/api?username={OhJeongHwan1}&show_icons=true
+
 
 
 <!--
