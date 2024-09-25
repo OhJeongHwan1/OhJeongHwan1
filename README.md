@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=OhJeongHwan1&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
